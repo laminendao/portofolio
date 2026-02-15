@@ -1,0 +1,25 @@
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Node modules (si jamais tu utilises npm plus tard)
+node_modules/
+
+# Build folders (si tu utilises un framework plus tard)
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# IntelliJ / WebStorm
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
